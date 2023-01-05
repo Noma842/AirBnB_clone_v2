@@ -143,4 +143,5 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 ## Authors
 Naod Ararsa | <a href="https://github.com/DeazStar/">GitHub</a>
-Milkiyas Lekeleh | <a href="https://github.com/mixown2/“>GitHub</a>
+<br> 
+Milkiyas Lekeleh | <a href="https://github.com/mixown2/“> GitHub </a>
