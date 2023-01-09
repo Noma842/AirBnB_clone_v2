@@ -142,6 +142,6 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 <br>
 
 ## Authors
-Naod Ararsa | <a href="https://github.com/DeazStar/">GitHub</a>
+Nahom Getenet | <a href="https://github.com/Noma842/">GitHub</a>
 <br> 
-Milkiyas Lekeleh | <a href="https://github.com/mixown2/">GitHub</a>
+Solo Lawal | <a href="https://github.com/Jamal-Lawal/">GitHub</a>
